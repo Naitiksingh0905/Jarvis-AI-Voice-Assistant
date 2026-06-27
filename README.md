@@ -246,7 +246,7 @@ Planned features:
 - Memory system
 
 ## 👨‍💻 Author
-Naitik Singh
+Naitik Singh - 
 Python Developer | AI Enthusiast
 
 ## ⭐ Support
