@@ -56,10 +56,10 @@ NewsAPI -  News fetching
 
 ## Project Structure
 
-```MEGA PROJECT - JARVIS
-
+```
+MEGA_PROJECT_JARVIS
 │
-├── MEGA PROJECT 01 - JARVIS.py
+├── JARVIS_VOICE_ASSISTANT.py
 │
 ├── MusicLibrary.py
 │
@@ -67,4 +67,32 @@ NewsAPI -  News fetching
 │
 ├── README.md
 │
-└── .venv```
+└── .venv
+```
+
+## Libraries Installation
+1. SpeechRecognition - Used for converting voice into text.
+
+Install:
+```
+pip install SpeechRecognition
+```
+Usage:
+```
+import speech_recognition as sr
+```
+Features:
+- Mircophone input
+- Speech-to-text conversion
+- Google speech recognition support
+
+2. Pyttsx3 - Used for text-to-speech
+
+Install:
+```
+pip install pyttsx3
+```
+Usage:
+```
+import pyttsx3
+```
